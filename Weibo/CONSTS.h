@@ -22,3 +22,5 @@
 
 //font color keys kNavigationBarTitleLabel
 #define kNavigationBarTitleLabel @"kNavigationBarTitleLabel"
+
+#define kThemeListLabel @"kThemeListLabel"
